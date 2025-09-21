@@ -1,0 +1,9 @@
+{
+  "name": "exif-api",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "exifr": "^7.1.3"
+  }
+}
